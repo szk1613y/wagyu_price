@@ -84,3 +84,7 @@ footer {
     border-radius: 50%;
   }
 }
+
+.login_btn {
+  background-color: rgb(27, 97, 27);
+}
